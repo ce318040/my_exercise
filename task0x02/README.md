@@ -31,7 +31,7 @@ Ordered list atau daftar terurut adalah penomeran dari daftar item. Pembuatan `<
   * Ayam Geprek
   
 #### Hyperlink^^
-Hyperlink pada markdown cukup singkat. Untuk membuat `<a href='http://yourlink.com'>Your Link</a>` cukup dengan mengetikkan syntax `[Your Link](http://yourlink.com)`. Like this : [Your Link](http://github.com).
+Hyperlink pada markdown cukup singkat. Untuk membuat `<a href='http://yourlink.com'>Your Link</a>` cukup dengan mengetikkan syntax `[Your Link](http://yourlink.com)`.Contoh `[link githubku](http://github.com)` akan menghasilkan : [link githubku](http://github.com)
 
 #### Horizontal Rule^^
 Horizontal Rule pada markdown dapat dibuat dengan syntax `---`kemudian ketik `enter`. Maka syntaxnya akan menghasilkan seperti ini :
