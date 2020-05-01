@@ -7,8 +7,8 @@ Membuat paragraf pada markdown itu mudah, yaitu dengan mengetikkan sesuatu yang 
 
 #### Heading^^
 Heading bisa juga disebut sebagai Judul. Membuat judul cukup dilakukan dengan kode hash `#`.
-- Contoh nya untuk membuat judul `<h1>Ini Judul Paragraf</h1>` pada markdown syntaxnya `#Ini Judul Paragraf`, like this : # Ini judul Paragraf
-- Dan kita dapat menggunakan `#` sebanyak 1-6 yang menandakan level tag `h` yang akan dibuat. Contoh satu lagi, kalau ingin membuat `<h3>Ini Judul Paragraf</h3>` pada markdown syntaxnya `### Ini Judul Paragraf`, like this: ### Ini Judul Paragraf
+- Contoh nya untuk membuat judul `<h1>Ini Judul Paragraf</h1>` pada markdown syntaxnya `#Ini Judul Paragraf` 
+- Dan kita dapat menggunakan `#` sebanyak 1-6 yang menandakan level tag `h` yang akan dibuat. Contoh satu lagi, kalau ingin membuat `<h3>Ini Judul Paragraf</h3>` pada markdown syntaxnya `### Ini Judul Paragraf`
 
 #### Bold^^
 Efek Bold dapat digunakan menggunakan syntax `**`. Misalnya untuk membuat `<b>Bold</b>` pada markdown syntaxnya seperti ini `**Bold**`. **Bold**
@@ -22,18 +22,20 @@ Blockquote dapat dibuat dengan syntax `>ini blockquote` yang akan menghasilkan `
 
 #### Ordered List^^
 Ordered list atau daftar terurut adalah penomeran dari daftar item. Pembuatan `<ol><li>1. Telur Dadar</li><li>2. Ayam Geprek</li></ol>` dapat dilakukan dengan sederhana, tinggal mengetikkan `spasi` + `nomor` pada paragraf baru (harus mengetikkan enter terlebih dahulu). Contoh `1 Telur Dadar` akan menghasilkan :
- 1 Telur Dadar
- 2 Ayam Gepprek
+  1. Telur Dadar
+  2. Ayam Gepprek
  
 #### Unordered List^^
  Unordered list atau daftar takk terurut dibuat dengan cara hampir sama dengan ordered list, namun unordered list mengguakan syntax `*`. Contoh : `* Telur Dadar` akan menghasilkan :
   * Telur Dadar
+  * Ayam Geprek
   
 #### Hyperlink^^
 Hyperlink pada markdown cukup singkat. Untuk membuat `<a href='http://yourlink.com'>Your Link</a>` cukup dengan mengetikkan syntax `[Your Link](http://yourlink.com)`. Like this : [Your Link](http://github.com).
 
 #### Horizontal Rule^^
 Horizontal Rule pada markdown dapat dibuat dengan syntax `---`kemudian ketik `enter`. Maka syntaxnya akan menghasilkan seperti ini :
+
 ---
 
 #### Membuat Tabel^^
