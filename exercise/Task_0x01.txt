@@ -1,0 +1,19 @@
+Task 1: All about github,dsb
+
+Dunia IT sudah tidak di herankan dengan konsep kolaborasi ketika mengerjakan sebuah proyekan. Dimana didalam sebuah 
+tim bisa tergabung dari beberapa divisi yang berbeda seperti UI/UX, Backend, Frontend, DevOps, dsb. Dan semua itu dipermudah
+dengan adanya bantuan version control system. Nah jadi task nya adalah:
+
+[1] Pelajari apa itu konsep VCS(bukan video call ****) :v
+[2] Pelajari cara kerja GITHUB:
+	- Apa itu repository.
+	- Perbedaan Public dan Private Repository
+	- Explore tentang pengunaannya lebih dalam seperti commit, branch, pull-request, dll
+[3] Tuliskan setiap langkah-langkah ataupun tahapan pengerjaan yang dirimu telah lakukan di sebuah wadah :v kalau bisa ada gambarnya lebih bagus sih
+
+Referensi:
+[1] https://www.petanikode.com/tutorial/git/
+[2] https://www.hostinger.co.id/tutorial/apa-itu-github/
+[3] https://git-scm.com/book/id/v2/Memulai-Tentang-Version-Control
+[4] https://medium.com/@azkiya/memahami-version-control-system-git-42c15d95b99b
+

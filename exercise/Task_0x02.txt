@@ -1,0 +1,26 @@
+Task 2: Masih all about github
+
+Untuk task kali ini masih seputaran github tok, jadi di github itu kita bisa nyimpan yang namanya source code ataupun file-file
+yang berhubungan dengan proyek kita. Nah untuk memudahkan orang-orang yang berada didalam repository untuk memahami ataupun 
+menggunakan source code yang ada direpository dibuatlah yang namanya README.md, ataupun sebuah notes singkat yang berisi 
+deskripsi singkat ataupun langkah-langkah dari pengunaan source code tersebut. Jadi untuk mempercantek notes tersebut ada 
+yang namanya markdown. Dan tujuannya kita pelajari ini tok, biar semua nanti kerjaan kita ataupun task-task nya itu ada 
+direpository, jadi misal kau lupa something, bisa tinggal cek repo.
+
+[1] Pelajari apa itu markdown dan cara penggunaannya
+[2] Coba buat repository public yang namanya my-exercise, kemudian coba invite akunku tok sebagai kolaborator, usernameku=iv1310
+[3] Kemudian nanti didalam repository coba buat directory task0x01, task0x02, dan exercise.
+[4] Kemudian buat sebuah file dengan nama README dengan ekstensi .md pada directory task0x02, kemudian tuliskan disana semua
+    apa yang itok pelajarin tentang markdown.
+[5] Kemudian setelah mempelajari markdown tadi, coba beautify laporan anda pada task1 tadi menjadi markdown pada file README.md
+    di directory task0x01.
+[6] Jadi reportnya ga perlu pake docs lagi tok huhuhuhuuh
+[7] Gut lak
+
+
+
+Referensi:
+[1] https://www.petanikode.com/markdown-pemula/
+[2] https://guides.github.com/features/mastering-markdown/
+[3] https://www.markdowntutorial.com/
+
