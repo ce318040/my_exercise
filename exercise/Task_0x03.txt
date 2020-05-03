@@ -1,0 +1,18 @@
+###########################
+## Setup Standard Server ##
+###########################
+
+Please setup a VM by following this:
+[1] Basic system on Virtualbox
+	- OS: centos7
+	- Disk: 15GB root file system
+	- Username must be user01
+	- Make sure the OS and its packages properly updated
+	- Change hostname to MyServer(using CLI)
+[2] Task:
+	- Use latest stable version of openssh
+	- Make sure openssh will be started on boot
+	- Generate ssh key pair so that you can login to your server(MyServer) using that key.
+	- Explain how ssh key-pair's works
+	- Copy some files/directories using SCP and RSYNC 
+[3] Explain how you approach(step by step with images, and please put your images on directory `img`) this on the github(task0x03/README.md)
