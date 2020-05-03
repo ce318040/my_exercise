@@ -52,5 +52,5 @@ Tabel pada markdown dapat dibuat dengan cara seperti berikut :
 #### Menambahkan Gambar
 Membuat ataupun menambahkan gambar pada markdown hampir mirip pengunaannya dengan [Hyperlink](https://github.com/ce318040/my_exercise/tree/master/task0x02#hyperlink).   
 >![](image.png "Desc") atau bisa menggunakan sintaks HTML   
-![DevOps](https://github.com/ce318040/my_exercise/tree/master/task0x02/img/devops_circle.jpg "DevOps Circle")
+![DevOps](https://github.com/ce318040/my_exercise/blob/master/task0x02/img/devops_circle.jpg "DevOps Circle")
 
