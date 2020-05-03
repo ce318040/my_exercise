@@ -54,5 +54,6 @@ Membuat ataupun menambahkan gambar pada markdown hampir mirip pengunaannya denga
 ```
 ![](image.png "Desc") atau bisa menggunakan sintaks HTML   
 ```
+
 ![DevOps](https://github.com/ce318040/my_exercise/blob/master/task0x02/img/devops_circle.jpg "DevOps Circle")
 
