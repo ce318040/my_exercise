@@ -6,6 +6,7 @@ Please setup a VM by following this:
 [1] Basic system on Virtualbox
 	- OS: centos7
 	- Disk: 15GB root file system
+	- RAM: 1GB
 	- Username must be user01
 	- Make sure the OS and its packages properly updated
 	- Change hostname to MyServer(using CLI)
