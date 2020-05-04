@@ -57,5 +57,7 @@ Membuat ataupun menambahkan gambar pada markdown hampir mirip pengunaannya denga
 
 ![DevOps](https://github.com/ce318040/my_exercise/blob/master/task0x02/img/devops_circle.jpg "DevOps Circle")
 
+
 - Contoh gambar update
+
 ![Google](https://github.com/ce318040/my_exercise/blob/master/task0x02/Capture.JPG "Update Google")
