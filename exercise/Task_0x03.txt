@@ -8,6 +8,7 @@ Please setup a VM by following this:
 	- Disk: 15GB root file system
 	- RAM: 1GB
 	- Username must be user01
+	- Make sure user01 can use sudo without password
 	- Make sure the OS and its packages properly updated
 	- Change hostname to MyServer(using CLI)
 [2] Task:
