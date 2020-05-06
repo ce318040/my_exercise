@@ -60,4 +60,4 @@ Membuat ataupun menambahkan gambar pada markdown hampir mirip pengunaannya denga
 
 - Contoh gambar update
 
-![Google](https://github.com/ce318040/my_exercise/blob/master/task0x02/Capture.JPG "Update Google")
+![Google](https://github.com/ce318040/my_exercise/blob/master/task0x02/img/linux.jpg "Linux")
