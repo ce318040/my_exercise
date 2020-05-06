@@ -1,7 +1,7 @@
 # MARKDOWN
 Markdown adalah satu bahasa yang diciptakan untuk mempermudah pembuatan dan pembacaan code HTML. Markdown diciptakan dalam bahasa Perl.
 Format tulisan makrdown sendiri adalah plain-text yang artinya kamu bisa membuat markdown dari text-editor biasa seperti notepad, sublime dll.
-## Menjelaskan lebih lanjut tentang sintax Mardown
+## Menjelaskan lebih lanjut tentang sintax Markdown
 #### Paragraf^^
 Membuat paragraf pada markdown itu mudah, yaitu dengan mengetikkan sesuatu yang kita inginkan maka itu akan otomatis dikonversi menjadi paragraf selama belum mengklik `enter`. Jadi `enter` adalah tanda awal paragraf.
 
@@ -60,4 +60,4 @@ Membuat ataupun menambahkan gambar pada markdown hampir mirip pengunaannya denga
 
 - Contoh gambar update
 
-![Google](https://github.com/ce318040/my_exercise/blob/master/task0x02/img/linux.jpg "Linux")
+![Google](https://github.com/ce318040/my_exercise/blob/master/task0x02/img/linux.JPG "Linux")
