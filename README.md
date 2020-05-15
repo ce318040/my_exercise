@@ -19,3 +19,4 @@
 * [Tecmint](https://www.tecmint.com/sed-command-to-create-edit-and-manipulate-files-in-linux/)
 * [Howtoforge](https://www.howtoforge.com/)
 * [LPIC-1 Linux Administrator](https://www.theurbanpenguin.com/lpi-training-from-theurbanpenguin/lpic-1-linux-server-professional/)
+* [Dictionary](https://www.computerhope.com/jargon.htm)
