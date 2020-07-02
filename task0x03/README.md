@@ -98,3 +98,11 @@ So we can use sudo in user01 without password
 19. The final step in the basics I will make sure the OS and its packages properly updated using `sudo yum check-update`
 
 ![Step 17](https://github.com/ce318040/my_exercise/blob/master/task0x03/img/step17.JPG "Step 17")
+
+
+# TASK (Instalasi dan Konfigurasi SSH)
+SSH merupakan aplikasi shell yang digunakan untuk membuat koneksi terenkripsi antar sistem sehingga koneksi menjadi lebih aman. SSH terdiri dari dua aplikasi berbeda yaitu aplikasi klien ssh dan aplikasi server sshd. Pertama yang dilakukan adalah melakukan instalasi ssh dengan mengunakan command berikut : `yum install openssh-server -y`
+
+![SSH](https://github.com/ce318040/my_exercise/blob/master/task0x03/img/ssh1.JPG "SSH")
+
+![SSH](https://github.com/ce318040/my_exercise/blob/master/task0x03/img/ssh2.JPG "SSH")
