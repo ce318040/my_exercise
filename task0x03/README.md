@@ -156,4 +156,28 @@ the above command will create a public and private key pair that will be stored 
 ![SSH](https://github.com/ce318040/my_exercise/blob/master/task0x03/img/ssh14.JPG "SSH")
 
 ## SCP 
+SCP is based on ssh & is used to transfer file from local host to remote host securely (in my opinion scp is almost the same as the cp which transfers files equally, the difference is that cp transfers files in the directory itself while scp is to another user). Following the scp command `scp source_file_name username@destination_name:destination_folder`, before I have provided a file **filetask.txt** to copy to centos host.
+
+![SSH](https://github.com/ce318040/my_exercise/blob/master/task0x03/img/ssh15.JPG "SSH")
+
+From the image above, I transfer files from the server (192.168.88.139) to the client (192.168.88.136). Then we check the client that the files have been copied.
+
+![SSH](https://github.com/ce318040/my_exercise/blob/master/task0x03/img/ssh17.JPG "SSH")
+
+We can also use the `scp -rpv /datafile username@destination_name:destination_folder` command, where **option r** is use when are copying a directory with all the files inside it, secondly **option p** will provide an estimate time and connection speed, and **option v** will provide debugging information which can help in diagnosing a problem related to connection, authentication etc.
+
+## RSYNC
+RSYNC's main function is basically to synchronize files/directories eithre on local host or remote host. Rsync initially copies whole directory and then copies newly added files (differential backup) rather than copying whole directory again.It is secure & faster than scp & can also be used in place of scp command to copy files / directories to remote hosts. Syntax for using rsync is `rsync -azvh datafile username@destination_name:destination_folder`, where **option a** is archive mode which allows copying of files recursively along with their file permissions, symbolic links etc,Second **option z** is used to compress file data, Third **option h** will provide human readable outputs, and **option v** will provide debugging information which can help in diagnosing a problem related to connection, authentication etc.
+
+![SSH](https://github.com/ce318040/my_exercise/blob/master/task0x03/img/ssh19.JPG "SSH")
+
+Then we check the client that the datafile has been transfered
+
+![SSH](https://github.com/ce318040/my_exercise/blob/master/task0x03/img/ssh20.JPG "SSH")
+
+
+
+### END.
+
+
 
